@@ -58,7 +58,7 @@ body {
 
 .page-header {
   background-image: url("../../images/PebbleBeach8.jpg");
-  background-position: center center;
+  background-position: center ;
   background-size: cover;
   height: 700px;
   width: 100%;
@@ -147,8 +147,12 @@ li {
 }
 
 .main {
-  background: url("../../images/water-blue-ocean.jpg");
-  padding: 40px;
+    background: url("../../images/water-blue-ocean.jpg");
+    padding: 40px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+
 }
 
 .value-props {
@@ -158,8 +162,8 @@ li {
 
 .prop {
   border: 1px solid #FFF;
-  padding: 40px 0px;
-  margin: 5px 0px;
+  padding: 40px 0;
+  margin: 5px 0;
   text-align: center;
   border-radius: 5px;
 }
@@ -167,6 +171,7 @@ li {
 .prop h2 {
   font-family: 'Quicksand', sans-serif;
   font-size: 24px;
+    text-align: center;
 }
 
 #julian {

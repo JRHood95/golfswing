@@ -57,7 +57,7 @@ body {
 }
 
 .page-header {
-    background-image: url("http://theaposition.com/kenvanvechten/wp-content/uploads/sites/42/2010/11/Pebble-8-by-Joann-Dost.jpg");
+    background-image: url("http://allinclusivegolfinturkey.com/wp-content/uploads/2016/11/pebble-beach-golf-waves-sunrise.jpg");
     background-position: left;
     background-size: cover;
     height: 700px;
@@ -68,7 +68,7 @@ body {
     margin: 0 auto;
     position: relative;
     text-align: center;
-    top: 12%;
+    top: 15%;
     width: 40%;
 }
 
@@ -175,6 +175,7 @@ li {
     font-size: 28px;
     font-weight: 100;
     text-decoration: overline;
+    color: #000;
 }
 
 .main h3 {
