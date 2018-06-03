@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="65" column="190" lean-forward="false" selection-start-line="65" selection-start-column="190" selection-end-line="65" selection-end-column="190" />
+            <state relative-caret-position="230">
+              <caret line="65" column="275" lean-forward="true" selection-start-line="65" selection-start-column="275" selection-end-line="65" selection-end-column="275" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -29,7 +29,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1561">
+            <state relative-caret-position="650">
               <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
@@ -64,7 +64,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -184,18 +184,19 @@
       <workItem from="1526656361362" duration="739000" />
       <workItem from="1527310095945" duration="3401000" />
       <workItem from="1527482216268" duration="59000" />
-      <workItem from="1527691507557" duration="1209000" />
+      <workItem from="1527691507557" duration="2321000" />
+      <workItem from="1528013307401" duration="1171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44101000" />
+    <option name="totallyTimeSpent" value="46384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.226979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23021002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -475,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1561">
+        <state relative-caret-position="650">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
@@ -483,8 +484,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="65" column="190" lean-forward="false" selection-start-line="65" selection-start-column="190" selection-end-line="65" selection-end-column="190" />
+        <state relative-caret-position="230">
+          <caret line="65" column="275" lean-forward="true" selection-start-line="65" selection-start-column="275" selection-end-line="65" selection-end-column="275" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
